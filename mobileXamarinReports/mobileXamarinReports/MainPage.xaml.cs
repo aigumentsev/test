@@ -6,7 +6,7 @@ namespace mobileXamarinReports
 {
     public partial class MainPage : ContentPage
     {
-        string _fileName = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "notes.txt");
+        string _fileName = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "notes1.txt");
 
         public MainPage()
         {
